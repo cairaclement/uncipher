@@ -1,4 +1,4 @@
-Go to the folder with a bash
+<h3>Go to the folder with a bash</h3>
 
 Test with : 
 
